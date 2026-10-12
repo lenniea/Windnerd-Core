@@ -683,17 +683,17 @@
     "top_level_sheets": [
       {
         "filename": "core-espc3.kicad_sch",
-        "name": "core-v1",
+        "name": "core-espc3 (page 1)",
         "uuid": "d1b93b02-06e3-4541-85ed-7485bfda7198"
       }
     ],
-    "used_designators": "U2,U5,R3-4,R7,J2,J4,#PWR1-2,#PWR4,#PWR21,#PWR24-25",
+    "used_designators": "U2,U5,J1-2,J4,R3-4,R7,#PWR1-2,#PWR4,#PWR21,#PWR23-25",
     "variants": []
   },
   "sheets": [
     [
       "d1b93b02-06e3-4541-85ed-7485bfda7198",
-      "core-v1"
+      "core-espc3 (page 1)"
     ]
   ],
   "text_variables": {},
