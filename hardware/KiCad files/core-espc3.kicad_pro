@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.0,
           "height": 1.5,
-          "width": 1.5
+          "width": 3.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -687,7 +687,7 @@
         "uuid": "d1b93b02-06e3-4541-85ed-7485bfda7198"
       }
     ],
-    "used_designators": "U2,U5,J1-2,J4,R3-4,R7,#PWR1-2,#PWR4,#PWR21,#PWR23-25",
+    "used_designators": "U2,U5,J1-2,J4,R1-4,R7-8,#PWR1-5,#PWR21,#PWR23-28,C9,H1",
     "variants": []
   },
   "sheets": [
